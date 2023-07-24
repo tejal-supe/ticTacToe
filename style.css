@@ -1,0 +1,22 @@
+body{
+    margin: 10px 0 0 0;
+    text-align: center;
+
+}
+.col{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 40px;
+    padding: 30px 20px;
+    border: 1px solid grey;
+
+}
+
+button{
+    padding: 20px;
+    font-size:20px;
+    margin-top: 30px;
+}
