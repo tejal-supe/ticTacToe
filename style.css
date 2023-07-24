@@ -2,15 +2,18 @@ body{
     margin: 10px 0 0 0;
     text-align: center;
 
+
 }
+
 .col{
     display: inline-block;
-    width: 80px;
-    height: 80px;
+    width: 80px;    
+    height: 70px;
     text-align: center;
     margin-top: 5px;
-    font-size: 40px;
-    padding: 30px 20px;
+    font-size: 20px;
+    padding:  20px;
+    padding-top: 30px;
     border: 1px solid grey;
 
 }

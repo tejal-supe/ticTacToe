@@ -11,5 +11,10 @@ $(document).ready(function(){
 
   $('.col').click(function(){
     $(this).html(PLAYER_TOKEN);
+    const i =$(this).data("i");
+    const j =$(this).data("j");
+    grid[i][j] = PLAYER_TOKEN;
+    console.log(grid)
   })
+  
 })
